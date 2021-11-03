@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sSaleh02
+- 🌱 I’m currently learning python
+- 📫 if you want to reach me: ss.salehli02@gmail.com or ss.salehli002@gmail.com
